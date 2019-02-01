@@ -28,7 +28,7 @@ feed:
    path: /atom.xml
 
 # If you use a feed publisher such as Feedburner, uncomment the next line
-subscribe_rss: http://feeds.haacked.com/haacked
+subscribe_rss: http://feeds.jcansdale.com/jcansdale
 
 # Homepage
 show_excerpts: true  # set to true to show excerpts on the homepage, otherwise full posts are shown
@@ -38,7 +38,7 @@ show_excerpts: true  # set to true to show excerpts on the homepage, otherwise f
 comments:
   enabled: true
   show_count: true
-  receiver: https://haacked-blog.azurewebsites.net/api/PostComment  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
+  receiver: https://jcansdale.azurewebsites.net/api/PostComment  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
 
 emptyArray: [] # Leave this here.
 
