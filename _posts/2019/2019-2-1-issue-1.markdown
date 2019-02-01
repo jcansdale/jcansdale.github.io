@@ -1,10 +1,13 @@
 ---
-title: "Testing"
+title: "Look, a PANGOLIN!"
 date: 2019-02-01 00:52:26Z
 tags: [post]
-
+description: "Where does this appear?"
+excerpt_image: https://user-images.githubusercontent.com/11719160/52085824-61a7f080-259d-11e9-8694-77eeea1c4105.png
 ---
+
+A pangolin?
 
 ![image](https://user-images.githubusercontent.com/11719160/52085824-61a7f080-259d-11e9-8694-77eeea1c4105.png)
 
-A pangolin?
+foo
