@@ -1,22 +1,22 @@
 title: Title
 subtitle: subtitle
 author: author
-avatar_url: https://2.gravatar.com/avatar/cdf546b601bf29a7eb4ca777544d11cd?s=160 # Should be 160x160px.
+avatar_url: https://en.gravatar.com/userimage/139060802/b01cf77915709dca9a78ade7dbecc842.png?size=160 # Should be 160x160px.
 # email: your-email@domain.com  # Comment out this line if you don't want to expose your email.
 description: > # this means to ignore newlines until "twitter_username:"
-  You've been Haacked is a blog about
-  Technology, Software, Management, and Open Source.
-  It's full of good stuff.
-repository: haacked/haacked.com
+  blar
+  blar
+  blar
+repository: jcansdale/jcansdale.github.io
 
 # contact
 contact:
 #  email: your-email@domain.com  # Comment out this line if you don't want to expose your email.
-  url: https://github.com/Haacked/feedback/issues/new # Uncomment this to provide a contact form url instead of an email
+  url: https://github.com/jcansdale/jcansdale.github.io/issues/new # Uncomment this to provide a contact form url instead of an email
 
 # social links
-twitter_username: haacked
-github_username:  haacked
+twitter_username: jcansdale
+github_username:  jcansdale
 rss: rss
 
 # 
