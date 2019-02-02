@@ -6,4 +6,6 @@ description: "Where does this appear?"
 excerpt_image: https://user-images.githubusercontent.com/11719160/52169470-e8410700-2730-11e9-91fe-ee8bad7517f2.png
 ---
 
-Woh!
+Yup, this looks like a chameleon!
+
+![image](https://user-images.githubusercontent.com/11719160/52169677-5935ee00-2734-11e9-9c22-a11c0d4288ba.png)
