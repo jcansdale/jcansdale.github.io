@@ -5,6 +5,6 @@ workflow "Release notes" {
 
 action "Issues to Blog" {
   uses = "jcansdale/haacked.com/github-actions/dotnetcore-cli@master"
-  args = "$GITHUB_TOKEN push"
+  args = "push"
   secrets = ["GITHUB_TOKEN"]
 }
