@@ -1,0 +1,8 @@
+---
+title: "Foo bar"
+date: 2019-02-04 23:53:20Z
+tags: [post]
+
+---
+
+baz
