@@ -1,10 +1,10 @@
-workflow "Release notes" {
+workflow "Issues to Blog" {
   resolves = ["Issues to Blog"]
   on = "issues"
 }
 
 action "Issues to Blog" {
-  uses = "jcansdale/haacked.com/github-actions/dotnetcore-cli@master"
+  uses = "jcansdale/IssuesToBlog@master"
   args = "push"
-  secrets = ["TOKEN"]
+  secrets = ["PERSONAL_ACCESS_TOKEN"]
 }
