@@ -1,9 +1,9 @@
-workflow "Issues to Blog" {
-  resolves = ["Issues to Blog"]
+workflow "Turn issues into blog posts" {
+  resolves = ["IssuesToBlog"]
   on = "issues"
 }
 
-action "Issues to Blog" {
+action "IssuesToBlog" {
   uses = "jcansdale/IssuesToBlog@master"
   args = "push"
   secrets = ["PERSONAL_ACCESS_TOKEN"]
