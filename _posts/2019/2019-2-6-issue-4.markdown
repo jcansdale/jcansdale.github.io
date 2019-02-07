@@ -8,3 +8,6 @@ tags: [post]
 .NET is awesome and its future is bright! 
 
 ![image](https://user-images.githubusercontent.com/679326/52381296-c8a62900-2a25-11e9-8a5e-c2fc91c480a7.png)
+
+
+[Comment](https://github.com/jcansdale/jcansdale.github.io/issues/4) on this post!
