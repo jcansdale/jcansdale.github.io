@@ -2,6 +2,7 @@
 title: "Look, a PANGOLIN!"
 date: 2019-02-01 00:52:26Z
 tags: [post]
+url: [https://github.com/jcansdale/jcansdale.github.io/issues/1]
 
 ---
 

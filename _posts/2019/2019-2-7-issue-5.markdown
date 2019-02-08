@@ -2,6 +2,7 @@
 title: "My example post"
 date: 2019-02-07 09:27:09Z
 tags: [post]
+url: [https://github.com/jcansdale/jcansdale.github.io/issues/5]
 tags: [sample, demo]
 ---
 
