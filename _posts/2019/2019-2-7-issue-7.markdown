@@ -2,7 +2,7 @@
 title: "This post demonstrates post content styles"
 date: 2019-02-07 09:29:13Z
 tags: [post]
-url: [https://github.com/jcansdale/jcansdale.github.io/issues/7]
+comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/7
 title: "This post demonstrates post content styles"
 tags: [sample, demo]
 author: "Bart Simpson"
@@ -118,5 +118,3 @@ lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ip
 lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
 lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
 lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-[Comment](https://github.com/jcansdale/jcansdale.github.io/issues/7) on this post!

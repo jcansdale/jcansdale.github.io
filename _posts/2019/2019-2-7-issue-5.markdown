@@ -2,7 +2,7 @@
 title: "My example post"
 date: 2019-02-07 09:27:09Z
 tags: [post]
-url: [https://github.com/jcansdale/jcansdale.github.io/issues/5]
+comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/5
 tags: [sample, demo]
 ---
 
@@ -14,5 +14,3 @@ Might you have an include in your theme? Why not try it here!
 {% endcomment %}
 
 No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
-
-[Comment](https://github.com/jcansdale/jcansdale.github.io/issues/5) on this post!

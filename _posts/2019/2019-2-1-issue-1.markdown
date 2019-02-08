@@ -2,7 +2,7 @@
 title: "Look, a PANGOLIN!"
 date: 2019-02-01 00:52:26Z
 tags: [post]
-url: [https://github.com/jcansdale/jcansdale.github.io/issues/1]
+comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/1
 
 ---
 
@@ -10,8 +10,4 @@ url: [https://github.com/jcansdale/jcansdale.github.io/issues/1]
 
 A pangolin?
 
-I haz comments? This time? 🤔 
-
-What?
-
-[Comment](https://github.com/jcansdale/jcansdale.github.io/issues/1) on this post!
+I haz comments? This time? 🤔

@@ -2,13 +2,10 @@
 title: "Hello World"
 date: 2019-02-06 23:42:20Z
 tags: [post]
-url: [https://github.com/jcansdale/jcansdale.github.io/issues/4]
+comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/4
 
 ---
 
 .NET is awesome and its future is bright! 
 
 ![image](https://user-images.githubusercontent.com/679326/52381296-c8a62900-2a25-11e9-8a5e-c2fc91c480a7.png)
-
-
-[Comment](https://github.com/jcansdale/jcansdale.github.io/issues/4) on this post!
