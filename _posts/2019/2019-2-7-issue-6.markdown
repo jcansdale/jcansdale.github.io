@@ -2,7 +2,7 @@
 title: "Super long article"
 date: 2019-02-07 09:28:05Z
 tags: [post]
-comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/6
+new_comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/6#new_comment_field
 title: "Some articles are just so long they deserve a really long title to see if things will break well"
 tags: [sample]
 ---

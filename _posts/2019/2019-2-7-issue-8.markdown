@@ -2,7 +2,7 @@
 title: "Welcome to jekyll"
 date: 2019-02-07 09:30:17Z
 tags: [post]
-comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/8
+new_comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/8#new_comment_field
 title: Welcome
 tags: [sample, intro]
 ---

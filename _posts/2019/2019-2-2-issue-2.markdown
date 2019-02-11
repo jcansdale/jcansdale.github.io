@@ -2,7 +2,7 @@
 title: "A chameleon!"
 date: 2019-02-02 21:17:51Z
 tags: [post]
-comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/2
+new_comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/2#new_comment_field
 
 ---
 
