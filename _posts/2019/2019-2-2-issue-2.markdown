@@ -8,6 +8,6 @@ new_comment_url: https://github.com/jcansdale/jcansdale.github.io/issues/2#new_c
 
 Yup, this looks like a chameleon!
 
-![bar](https://user-images.githubusercontent.com/11719160/52169470-e8410700-2730-11e9-91fe-ee8bad7517f2.png)
+![Chameleon](https://user-images.githubusercontent.com/11719160/52169470-e8410700-2730-11e9-91fe-ee8bad7517f2.png)
 
 With comments? 🦎   
