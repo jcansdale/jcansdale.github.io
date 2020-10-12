@@ -12,5 +12,5 @@ jobs:
         with:
           args: push
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           DOTNET_NOLOGO: true
