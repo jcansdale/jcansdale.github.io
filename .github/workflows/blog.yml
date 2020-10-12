@@ -10,4 +10,4 @@ jobs:
         
       - uses: jcansdale/IssuesToBlog@master
         with:
-          args: push
+          args: --env GITHUB_TOKEN=${{ github.token }} --env DOTNET_NOLOGO=true push
